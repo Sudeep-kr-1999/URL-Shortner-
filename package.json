@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto-random-string": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "gitignore": "^0.6.0",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.12",
+    "random-base64-string": "^1.0.1",
+    "randomstring": "^1.2.1"
+  }
+}
